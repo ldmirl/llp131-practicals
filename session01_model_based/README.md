@@ -8,4 +8,4 @@
 
 The main practical is `vi.ipynb` in this folder. It has no requirements besides the most basic data science libraries (e.g. numpy) so you should be able to run it locally.
 
-**Note:** If you have any difficulty using graphviz, just set `has_graphviz=False` in `vi.ipynb` and `pi.ipynb` after `from mdp import MDP`.
+**Note:** If you have any difficulty using graphviz, just set `has_graphviz=False` in `vi.ipynb` after `from mdp import MDP`.
