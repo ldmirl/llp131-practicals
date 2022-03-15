@@ -6,3 +6,4 @@ This syllabus is approximate -- the lectures may occur in a slightly different o
 
 - [Session 00 - Primers](./session00_primers/)
 - [Session 01 - Model-Based](./session01_model_based/)
+- [Session 02 - Model-Free](./session02_model_free/)
