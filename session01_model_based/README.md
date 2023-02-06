@@ -4,7 +4,7 @@
 
 | Notebook                        | Colab                                                                                                                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [`Value Iteration`](./vi.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lulmil/llp131-practicals/blob/master/session01_model_based/vi.ipynb) |
+| [`Value Iteration`](./vi.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ldmirl/llp131-practicals/blob/master/session01_model_based/vi.ipynb) |
 
 The main practical is `vi.ipynb` in this folder. It has no requirements besides the most basic data science libraries (e.g. numpy) so you should be able to run it locally.
 
