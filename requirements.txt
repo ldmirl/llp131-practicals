@@ -1,1 +1,1 @@
-gym[all]
+gym[classic_control]
