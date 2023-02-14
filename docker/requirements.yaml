@@ -1,0 +1,32 @@
+name: llp131
+channels:
+  - default
+dependencies:
+  - graphviz
+  - python-graphviz
+  - ipykernel
+  - keras
+  - numpy
+  - pip
+  - scipy
+  - {tensorflow}
+  - tqdm
+  - pyopengl-accelerate
+  - {pytorch}
+  - torchvision
+  - opencv
+  - pip:
+    - atari-py
+    - sklearn
+    - matplotlib
+    - seaborn
+    - scikit-image
+    - imageio
+    - pyglet
+    - psutil
+    - gym
+    - gym[box2d]
+    - gym[atari]
+    - requests
+    - editdistance
+  prefix: /opt/conda/envs/llp131
