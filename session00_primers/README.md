@@ -12,7 +12,7 @@ The main practical is `gym_interface.ipynb`. It has no requirements besides the 
 
 | Notebook                                 | Colab                                                                                                                                                                                             |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`recal_ml`](./recal_ml.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ldmirl/llp131-practicals/blob/master/session00_primers/recal_ml.ipynb) |
-| [`recal_pytorch`](./recal_pytorch.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ldmirl/llp131-practicals/blob/master/session00_primers/recal_pytorch.ipynb) |
+| [`recap_ml`](./recal_ml.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ldmirl/llp131-practicals/blob/master/session00_primers/recap_ml.ipynb) |
+| [`recap_pytorch`](./recal_pytorch.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ldmirl/llp131-practicals/blob/master/session00_primers/recap_pytorch.ipynb) |
 
-The practical notebooks, namely `recal_ml.ipynb` and `recal_pytorch.ipynb`, serve the purpose of reviewing traditional machine learning methodologies and PyTorch, the neural network and autograd framework that is utilized in the context of Deep Reinforcement Learning (DRL) covered in this course.
+The practical notebooks, namely `recap_ml.ipynb` and `recap_pytorch.ipynb`, serve the purpose of reviewing traditional machine learning methodologies and PyTorch, the neural network and autograd framework that is utilized in the context of Deep Reinforcement Learning (DRL) covered in this course.
